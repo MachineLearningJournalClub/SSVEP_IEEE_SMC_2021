@@ -1,7 +1,9 @@
 # SSVEP_IEEE_SMC_2021
 
-## Data previous edition
+## Resources from previous edition
+* [Medium Draft](https://medium.com/@prfina.uni/syntetic-ssvep-5078341da6b5)
 * [SSVEP Data](https://drive.google.com/drive/u/1/folders/1NSFVOKlPthxYetrB33NSjG707qebgcjp)
+
 
 ## ideas
 * approfondire bitrate come metrica
