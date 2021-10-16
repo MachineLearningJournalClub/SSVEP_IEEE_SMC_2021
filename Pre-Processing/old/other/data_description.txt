@@ -1,0 +1,6 @@
+Stimulation frequencies: 9, 10, 12 and 15 Hz (column 1, 2, 3 and 4 in classInfo_4_5.m)
+Sampling rate: 256 Hz
+CH1: sample time
+CH2-9: EEG
+CH10: trigger info (LED on...1, LED off...0);
+CH11: LDA classification output
