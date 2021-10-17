@@ -55,13 +55,34 @@ def get_trials(patient_session_path):
 
     return epochs.get_data()
 
-def load_patient_trial(subject=1, path = 'subject_1_fvep_led_training_1.mat'):
-    subj_session1 = Path(path)
-    subj_session2 = Path(path)
+def load_patient_trials(subject=1, base_path="."):
+    subj_session1 = Path(base_path) / Path(f'subject_{subject}_fvep_led_training_1.mat')
+    subj_session2 = Path(base_path) / Path(f'subject_{subject}_fvep_led_training_2.mat')
 
     session_data_1 = get_trials(subj_session1)
     session_data_2 = get_trials(subj_session2)
-    labels = [0,1,2,3] * 20
+    labels = np.array([0,1,2,3] * 5)
     
     return session_data_1, labels, session_data_2, labels
 
+
+def split_session(session_array, len_split):
+    shapes = []
+    splits = []
+    labels = []
+
+    for i, trial in enumerate(session_array):
+        label = i % 4
+        nsplits = trial.shape[1] // len_split
+        for split in np.array_split(trial, nsplits, axis=1):
+            splits.append(split)
+            shapes.append(split.shape[1])
+        labels.extend([label] * nsplits)
+
+    minsize = min(shapes)
+    new_splits = []
+    for split in splits:
+        split = split[:,0:minsize]
+        new_splits.append(split)
+
+    return np.array(new_splits), np.array(labels)
