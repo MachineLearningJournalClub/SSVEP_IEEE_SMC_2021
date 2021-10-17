@@ -62,6 +62,10 @@ def load_patient_trials(subject=1, base_path="."):
 
     session_data_1 = get_trials(subj_session1)
     session_data_2 = get_trials(subj_session2)
+<<<<<<< HEAD
+    labels = [0,1,2,3] * 5
+=======
     labels = np.array([0,1,2,3] * 5)
+>>>>>>> 9bcb79e531d92d4c5292e203b1837c447f04a1df
     
     return session_data_1, labels, session_data_2, labels

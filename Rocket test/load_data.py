@@ -61,6 +61,6 @@ def load_patient_trial(subject=1):
 
     session_data_1 = get_trials(subj_session1)
     session_data_2 = get_trials(subj_session2)
-    labels = [0,1,2,3] * 10
+    labels = [0,1,2,3] * 5
     
     return session_data_1, labels, session_data_2, labels
