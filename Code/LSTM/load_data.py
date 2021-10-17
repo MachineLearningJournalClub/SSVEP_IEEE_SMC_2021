@@ -1,6 +1,7 @@
 from pathlib import Path
 import mat73
 import mne
+import numpy as np
 
 def load_session(path, sampling_freq, eeg_ch_names):
     # load raw numpy data
@@ -56,8 +57,8 @@ def get_trials(patient_session_path):
     return epochs.get_data()
 
 def load_patient_trials(subject=1, base_path="."):
-    subj_session1 = Path(base_path) / Path(f'subject_{subject}_fvep_led_training_1.mat')
-    subj_session2 = Path(base_path) / Path(f'subject_{subject}_fvep_led_training_2.mat')
+    subj_session1 = Path(base_path) / Path(f'../subject_{subject}_fvep_led_training_1.mat')
+    subj_session2 = Path(base_path) / Path(f'../subject_{subject}_fvep_led_training_2.mat')
 
     session_data_1 = get_trials(subj_session1)
     session_data_2 = get_trials(subj_session2)
@@ -66,10 +67,13 @@ def load_patient_trials(subject=1, base_path="."):
     return session_data_1, labels, session_data_2, labels
 
 
-def split_session(session_array, len_split):
+def split_session(len_split, session_array = None):
     shapes = []
     splits = []
     labels = []
+
+    if session_array == None:
+        session_array = load_patient_trials()
 
     for i, trial in enumerate(session_array):
         label = i % 4

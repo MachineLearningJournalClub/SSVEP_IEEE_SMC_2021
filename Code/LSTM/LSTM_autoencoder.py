@@ -20,7 +20,7 @@ from tensorflow.python.keras.losses import mean_squared_error
 from tensorflow.python.util.nest import _IF_SHALLOW_IS_SEQ_INPUT_MUST_BE_SEQ
 
 
-from load_data import load_patient_trial
+from load_data import *
 
 
 #%%
@@ -28,7 +28,7 @@ SAMPLE_LEN = 5
 channels = 8
 latent_dim = 3
 
-session_data_1, labels, session_data_2, labels = load_patient_trial(path = '/home/luca/Desktop/Ricerca/MLJC/SSVEP_IEEE_SMC_2021/new_data/subject_1_fvep_led_training_1.mat')
+data, label = split_session(SAMPLE_LEN)
 
 x_train, x_test, y_train, y_test = train_test_split(session_data_1, session_data_1, train_size = 0.85)
 x_val, x_test, y_val, y_test = train_test_split(x_test, y_test, train_size = 0.5)
