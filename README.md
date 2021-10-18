@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <h1 align="center">Random Convolutional Kernels for SSVEP Feature Extraction</h1>
+    <h1 align="center">Team ROCKET - Random Convolutional Kernels for SSVEP Feature Extraction</h1>
      <a href="https://github.com/MachineLearningJournalClub/SSVEP_IEEE_SMC_2021">
     <p align="center">
     <img src="images/logo_mljc.png" alt="Logo" width="120" height="120">
