@@ -152,13 +152,19 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Arianna Di Bernardo - email : [arianna.dibernard@edu.unito.it](arianna.dibernard@edu.unito.it) - [linkedin](https://www.linkedin.com/in/arianna-di-bernardo-043370121/)
 
+Beatrice Villata
+
 Simone Azeglio - email : [simone.azeglio@edu.unito.it](simone.azeglio@edu.unito.it) - [linkedin](https://www.linkedin.com/in/simoneazeglio/)
 
-Simone Poetto - [simone.poetto@edu.unito.it](simone.poetto@edu.unito.it) :  - [linkedin]()
+Gabriele Penna - email : [gabriele.penna04@gmail.com](gabriele.penna04@gmail.com) - [linkedin](https://www.linkedin.com/in/gabriele-penna/)
 
-Gabriele Penna  - email : [gabriele.penna04@gmail.com](gabriele.penna04@gmail.com) - [linkedin](https://www.linkedin.com/in/gabriele-penna/)
+Luca Bottero - email : [luca.bottero192@edu.unito.it](luca.bottero192@edu.unito.it) - [linkedin](https://www.linkedin.com/in/luca-bottero-physics/)
 
-Fabrizio Pittatore - email :  - [linkedin]()
+Francesco Calisto - email : [francesco.calisto@edu.unito.it](francesco.calisto@edu.unito.it) - [linkedin](https://www.linkedin.com/in/francesco-calisto-636b741b5/)
+
+Valerio Pagliarino - email : [valerio.pagliarino@edu.unito.it](valerio.pagliarino@edu.unito.it) - [linkedin](https://www.linkedin.com/in/valeriopagliarino/)
+
+
 
 Project Link: [https://github.com/MachineLearningJournalClub/ECoG_VBH_2021](https://github.com/MachineLearningJournalClub/ECoG_VBH_2021)
 
