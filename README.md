@@ -74,11 +74,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ### Abstract
- 
+ During the hackathon we performed analysis on data of an SSVEP experiment. SSVEP stands for Steady State Visually Evoked Potentials and it is a response to visual stimulation. This stimulation is performed at specific frequencies.
+ In this particular experiment, the task was to distinguish between four different frequencies. The data we received contained two different patients that performed two sessions of recording each. In each recording, 20 attempts were done, 5 for each frequency.
+ Our approach can be divided in two steps.
+ First, we applied pre-processing steps on the data, to clean them from unwanted frequencies. These resources can be found in the "Pre-Processing" folder.
+ Secondly, the feature extraction and classification has been performed.
 
 
 ### Built With
 
+* [nme](https://mne.tools/stable/index.html)
 * [tsai](https://github.com/timeseriesAI/tsai)
 * [scikit-learn](https://scikit-learn.org/stable/)
 
@@ -114,7 +119,18 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Preprocessing
+The first steps require to clean the data from the unwanted frequencies. In particular, the preprocessing can be divided in the following steps:
+* High pass Temporal filtering: it gets rid of slow drifts;
+* Spatial filtering: we used Common Average Reference (CAR);
+* Indipendent component analysis (ICA);
+
+After that we segmented the data in smaller epochs and divided into the different classes.
+
+
+
+### Feature Extraction
+### Classification
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -152,19 +168,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Arianna Di Bernardo - email : [arianna.dibernard@edu.unito.it](arianna.dibernard@edu.unito.it) - [linkedin](https://www.linkedin.com/in/arianna-di-bernardo-043370121/)
 
-Beatrice Villata - email : []() 
-
 Simone Azeglio - email : [simone.azeglio@edu.unito.it](simone.azeglio@edu.unito.it) - [linkedin](https://www.linkedin.com/in/simoneazeglio/)
 
-Gabriele Penna - email : [gabriele.penna04@gmail.com](gabriele.penna04@gmail.com) - [linkedin](https://www.linkedin.com/in/gabriele-penna/)
+Simone Poetto - [simone.poetto@edu.unito.it](simone.poetto@edu.unito.it) :  - [linkedin]()
 
-Luca Bottero - email : [luca.bottero192@edu.unito.it](luca.bottero192@edu.unito.it) - [linkedin](https://www.linkedin.com/in/luca-bottero-physics/)
+Gabriele Penna  - email : [gabriele.penna04@gmail.com](gabriele.penna04@gmail.com) - [linkedin](https://www.linkedin.com/in/gabriele-penna/)
 
-Francesco Calisto - email : [francesco.calisto@edu.unito.it](francesco.calisto@edu.unito.it) - [linkedin](https://www.linkedin.com/in/francesco-calisto-636b741b5/)
-
-Valerio Pagliarino - email : [valerio.pagliarino@edu.unito.it](valerio.pagliarino@edu.unito.it) - [linkedin](https://www.linkedin.com/in/valeriopagliarino/)
-
-
+Fabrizio Pittatore - email :  - [linkedin]()
 
 Project Link: [https://github.com/MachineLearningJournalClub/ECoG_VBH_2021](https://github.com/MachineLearningJournalClub/ECoG_VBH_2021)
 
@@ -178,10 +188,10 @@ Project Link: [https://github.com/MachineLearningJournalClub/ECoG_VBH_2021](http
     <img src="images/logo_gtec.png" alt="Logo" width="180" height="120">
     <img src="images/logo_hpc4ai.png" alt="Logo" width="420" height="120">
     <img src="images/logo_pompei.png" alt="Logo" width="120" height="120">
-    
+
   </a>
 
-* [Br41n.io IEEE-SMC Hackathon](https://www.br41n.io/IEEE-SMC-2021)
+* [Br41n.io Spring School 2021](https://www.br41n.io/Spring-School-2021)
 * [HPC4AI](https://hpc4ai.it/)
 
 
