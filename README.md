@@ -170,11 +170,11 @@ Arianna Di Bernardo - email : [arianna.dibernard@edu.unito.it](arianna.dibernard
 
 Beatrice Villata - email : - linkedin
 
+Martina Becchio - email : - linkedin
+
 Simone Azeglio - email : [simone.azeglio@edu.unito.it](simone.azeglio@edu.unito.it) - [linkedin](https://www.linkedin.com/in/simoneazeglio/)
 
 Gabriele Penna  - email : [gabriele.penna04@gmail.com](gabriele.penna04@gmail.com) - [linkedin](https://www.linkedin.com/in/gabriele-penna/)
-
-Martina Becchio - email : - linkeding
 
 Project Link: [https://github.com/MachineLearningJournalClub/SSVEP_IEEE_SMC_2021](https://github.com/MachineLearningJournalClub/SSVEP_IEEE_SMC_2021)
 
