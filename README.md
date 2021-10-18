@@ -152,7 +152,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Arianna Di Bernardo - email : [arianna.dibernard@edu.unito.it](arianna.dibernard@edu.unito.it) - [linkedin](https://www.linkedin.com/in/arianna-di-bernardo-043370121/)
 
-Beatrice Villata
+Beatrice Villata - email : []() 
 
 Simone Azeglio - email : [simone.azeglio@edu.unito.it](simone.azeglio@edu.unito.it) - [linkedin](https://www.linkedin.com/in/simoneazeglio/)
 
