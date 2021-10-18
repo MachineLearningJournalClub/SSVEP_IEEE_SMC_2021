@@ -187,16 +187,18 @@ Project Link: [https://github.com/MachineLearningJournalClub/SSVEP_IEEE_SMC_2021
 <p align="center">
   <a href="https://github.com/MachineLearningJournalClub/SSVEP_IEEE_SMC_2021">
     <img src="images/logo_gtec.png" alt="Logo" width="180" height="120">
+    <img src="https://www.nposervices.com/images/npotorino/layout/npo-logo-torino-big.png" alt="Logo" width="120" height="120">
     <img src="images/logo_hpc4ai.png" alt="Logo" width="420" height="120">
     <img src="images/logo_pompei.png" alt="Logo" width="120" height="120">
-    <img src="https://www.nposervices.com/images/npotorino/layout/npo-logo-torino-big.png" alt="Logo" width="120" height="120">
+    
       
 
   </a>
 
 * [Br41n.io IEEE SMC 2021](https://www.br41n.io/IEEE-SMC-2021)
-* [HPC4AI](https://hpc4ai.it/)
 * [NPO Torino](https://www.nposervices.com/)
+* [HPC4AI](https://hpc4ai.it/)
+* [Pompei Lab](https://www.pompeilab.it/)
 
 
 
