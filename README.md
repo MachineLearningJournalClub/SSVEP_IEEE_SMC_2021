@@ -188,6 +188,8 @@ Project Link: [https://github.com/MachineLearningJournalClub/ECoG_VBH_2021](http
     <img src="images/logo_gtec.png" alt="Logo" width="180" height="120">
     <img src="images/logo_hpc4ai.png" alt="Logo" width="420" height="120">
     <img src="images/logo_pompei.png" alt="Logo" width="120" height="120">
+    <img src="https://www.nposervices.com/images/npotorino/layout/npo-logo-torino-big.png" alt="Logo" width="120" height="120">
+      
 
   </a>
 
