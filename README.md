@@ -168,13 +168,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Arianna Di Bernardo - email : [arianna.dibernard@edu.unito.it](arianna.dibernard@edu.unito.it) - [linkedin](https://www.linkedin.com/in/arianna-di-bernardo-043370121/)
 
-Simone Azeglio - email : [simone.azeglio@edu.unito.it](simone.azeglio@edu.unito.it) - [linkedin](https://www.linkedin.com/in/simoneazeglio/)
+Beatrice Villata - email : - linkedin
 
-Simone Poetto - [simone.poetto@edu.unito.it](simone.poetto@edu.unito.it) :  - [linkedin]()
+Simone Azeglio - email : [simone.azeglio@edu.unito.it](simone.azeglio@edu.unito.it) - [linkedin](https://www.linkedin.com/in/simoneazeglio/)
 
 Gabriele Penna  - email : [gabriele.penna04@gmail.com](gabriele.penna04@gmail.com) - [linkedin](https://www.linkedin.com/in/gabriele-penna/)
 
-Fabrizio Pittatore - email :  - [linkedin]()
+Martina Becchio - email : - linkeding
 
 Project Link: [https://github.com/MachineLearningJournalClub/ECoG_VBH_2021](https://github.com/MachineLearningJournalClub/ECoG_VBH_2021)
 
