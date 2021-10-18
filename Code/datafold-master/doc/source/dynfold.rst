@@ -1,2 +1,0 @@
-
-.. automodapi:: datafold.dynfold
