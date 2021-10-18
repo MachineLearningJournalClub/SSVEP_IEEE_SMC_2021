@@ -193,8 +193,9 @@ Project Link: [https://github.com/MachineLearningJournalClub/SSVEP_IEEE_SMC_2021
 
   </a>
 
-* [Br41n.io Spring School 2021](https://www.br41n.io/Spring-School-2021)
+* [Br41n.io IEEE SMC 2021](https://www.br41n.io/IEEE-SMC-2021)
 * [HPC4AI](https://hpc4ai.it/)
+* [NPO Torino](https://www.nposervices.com/)
 
 
 
