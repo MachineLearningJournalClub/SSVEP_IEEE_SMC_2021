@@ -176,7 +176,7 @@ Gabriele Penna  - email : [gabriele.penna04@gmail.com](gabriele.penna04@gmail.co
 
 Martina Becchio - email : - linkeding
 
-Project Link: [https://github.com/MachineLearningJournalClub/ECoG_VBH_2021](https://github.com/MachineLearningJournalClub/ECoG_VBH_2021)
+Project Link: [https://github.com/MachineLearningJournalClub/SSVEP_IEEE_SMC_2021](https://github.com/MachineLearningJournalClub/SSVEP_IEEE_SMC_2021)
 
 
 
