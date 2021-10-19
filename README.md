@@ -166,7 +166,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Arianna Di Bernardo - email : [arianna.dibernard@edu.unito.it](arianna.dibernard@edu.unito.it) - [linkedin](https://www.linkedin.com/in/arianna-di-bernardo-043370121/)
+Arianna Di Bernardo - email : [arianna.dibernardo@edu.unito.it](arianna.dibernardo@edu.unito.it) - [linkedin](https://www.linkedin.com/in/arianna-di-bernardo-043370121/)
 
 Beatrice Villata - email : - linkedin
 
@@ -175,6 +175,8 @@ Martina Becchio - email : - linkedin
 Simone Azeglio - email : [simone.azeglio@edu.unito.it](simone.azeglio@edu.unito.it) - [linkedin](https://www.linkedin.com/in/simoneazeglio/)
 
 Gabriele Penna  - email : [gabriele.penna04@gmail.com](gabriele.penna04@gmail.com) - [linkedin](https://www.linkedin.com/in/gabriele-penna/)
+
+Luca Bottero  - email : [luca.bottero192@edu.unito.it](luca.bottero192@edu.unito.it)
 
 Project Link: [https://github.com/MachineLearningJournalClub/SSVEP_IEEE_SMC_2021](https://github.com/MachineLearningJournalClub/SSVEP_IEEE_SMC_2021)
 
